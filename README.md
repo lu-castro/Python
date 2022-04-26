@@ -3,5 +3,5 @@
 <p>Estructura de datos con Python y Jupyter</p>
 
 <p aling="center">
-    <img height="200px" width="200px" src="./assetsGithub/cap_one.png" alt="cap">
+    <img height="200px" width="200px" src="./assetsGithub/cap_one.png" alt="casp">
 </p>
